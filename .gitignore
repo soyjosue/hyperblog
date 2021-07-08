@@ -1,1 +1,4 @@
+#Comentarios
 *.jpg
+
+#Con "!" podemos hacer que no ignore tal archivo.
